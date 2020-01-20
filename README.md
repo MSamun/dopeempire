@@ -1,2 +1,2 @@
-# dopeempire
-A very basic, idle-incremental game.
+# <i>Main Screen</i>
+![](Screenshots/Main%20Screen.png)
